@@ -1,0 +1,7 @@
+min_km,max_km,fare_inr,rider_category,effective_from,source_url
+0,3,5,adult,2023-07-01,https://deshgujarat.com/2023/06/23/hike-in-amts-bus-ticket-prices/
+3,5,10,adult,2023-07-01,https://deshgujarat.com/2023/06/23/hike-in-amts-bus-ticket-prices/
+5,8,15,adult,2023-07-01,https://deshgujarat.com/2023/06/23/hike-in-amts-bus-ticket-prices/
+8,14,20,adult,2023-07-01,https://deshgujarat.com/2023/06/23/hike-in-amts-bus-ticket-prices/
+14,20,25,adult,2023-07-01,https://deshgujarat.com/2023/06/23/hike-in-amts-bus-ticket-prices/
+20,,30,adult,2023-07-01,https://deshgujarat.com/2023/06/23/hike-in-amts-bus-ticket-prices/

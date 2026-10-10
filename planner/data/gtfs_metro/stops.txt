@@ -1,0 +1,54 @@
+stop_id,stop_code,stop_name,stop_lat,stop_lon,location_type,stop_desc
+GMRC_1,1,Vastral Gam,22.997131,72.667451,0,interchange_group ix-0585
+GMRC_2,2,Nirant Cross Road,22.999899,72.658509,0,interchange_group ix-0334
+GMRC_3,3,Vastral,23.003492,72.647694,0,interchange_group ix-0593
+GMRC_4,4,Rabari Colony,23.005413,72.635592,0,interchange_group ix-0569
+GMRC_5,5,Amraivadi,23.007846,72.628373,0,interchange_group ix-0501
+GMRC_6,6,Apparel Park,23.010656,72.618237,0,interchange_group ix-0576
+GMRC_7,7,Kankaria East,23.015457,72.607002,0,interchange_group ix-0584
+GMRC_8,8,Kalupur Metro Station,23.024691,72.603145,0,
+GMRC_9,9,Gheekanta,23.028794,72.586775,0,
+GMRC_10,10,Shahpur,23.039210,72.581033,0,interchange_group ix-0445
+GMRC_11,11,Old High Court,23.037289,72.567206,0,
+GMRC_12,12,SP Stadium,23.039841,72.561677,0,
+GMRC_13,13,Commerce Six Road,23.040701,72.552973,0,interchange_group ix-0571
+GMRC_14,14,Gujarat University,23.044848,72.543530,0,interchange_group ix-0287
+GMRC_15,15,Gurukul Road,23.045883,72.534873,0,interchange_group ix-0157
+GMRC_16,16,Doordarshan Kendra,23.048176,72.524421,0,interchange_group ix-0507
+GMRC_17,17,Thaltej,23.049748,72.516015,0,interchange_group ix-0604
+GMRC_18,18,Thaltej Gam,23.050206,72.507012,0,interchange_group ix-0599
+GMRC_19,19,APMC,22.997744,72.537122,0,interchange_group ix-0597
+GMRC_20,20,Jivraj Park,23.005499,72.533493,0,interchange_group ix-0606
+GMRC_21,21,Rajivnagar,23.009723,72.536752,0,interchange_group ix-0583
+GMRC_22,22,Shreyas,23.013598,72.549222,0,interchange_group ix-0581
+GMRC_23,23,Paldi,23.018505,72.562408,0,interchange_group ix-0572
+GMRC_24,24,Gandhigram,23.027096,72.569024,0,
+GMRC_25,25,Usmanpura,23.045837,72.564982,0,interchange_group ix-0580
+GMRC_26,26,Vijaynagar,23.056191,72.562339,0,
+GMRC_27,27,Vadaj,23.067667,72.565759,0,interchange_group ix-0605
+GMRC_28,28,Ranip,23.067674,72.574084,0,
+GMRC_30,30,AEC,23.075109,72.593291,0,interchange_group ix-0602
+GMRC_31,31,Sabarmati,23.085630,72.592206,0,interchange_group ix-0407
+GMRC_32,32,Motera Stadium,23.096773,72.596692,0,interchange_group ix-0579
+GMRC_33,33,Koteshwar Road,23.103111,72.602133,0,interchange_group ix-0601
+GMRC_34,34,Vishwakarma College,23.114200,72.608386,0,
+GMRC_35,35,Tapovan Circle,23.120127,72.615799,0,
+GMRC_36,36,Narmada Canal,23.125146,72.622098,0,
+GMRC_37,37,Koba Circle,23.132251,72.631042,0,
+GMRC_38,38,Juna Koba,23.141972,72.638612,0,
+GMRC_39,39,Koba Gam,23.147610,72.643906,0,
+GMRC_40,40,GNLU,23.154472,72.647469,0,
+GMRC_41,41,Raysan,23.166395,72.648325,0,
+GMRC_42,42,Randesan,23.179084,72.647290,0,
+GMRC_43,43,Dholakuva Circle,23.185945,72.643320,0,
+GMRC_44,44,Infocity,23.192257,72.639713,0,interchange_group ix-0570
+GMRC_45,45,Sector-1,23.204908,72.643152,0,interchange_group ix-0575
+GMRC_46,46,Sector 10A,23.211484,72.650193,0,
+GMRC_47,47,Sachivalaya,23.215069,72.658751,0,
+GMRC_48,48,Akshardham,23.223677,72.664182,0,
+GMRC_49,49,Juna Sachivalaya,23.228926,72.659415,0,interchange_group ix-0577
+GMRC_50,50,Sector-16,23.233883,72.650166,0,
+GMRC_51,51,Sector-24,23.238508,72.641478,0,
+GMRC_52,52,Mahatama Mandir,23.233941,72.633871,0,
+GMRC_53,53,PDEU,23.154864,72.661212,0,
+GMRC_54,54,Gift City,23.153355,72.685554,0,

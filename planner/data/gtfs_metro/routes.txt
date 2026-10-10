@@ -1,0 +1,5 @@
+route_id,agency_id,route_short_name,route_long_name,route_type,route_color,route_text_color,network_id
+GMRC_L1,GMRC,Line 1,Blue Line: Vastral Gam - Thaltej Gam,1,0B5ED7,FFFFFF,GMRC
+GMRC_L2,GMRC,Line 2,Red Line: APMC - Koteshwar Road,1,E31E24,FFFFFF,GMRC
+GMRC_L3,GMRC,Line 3,Yellow Line: Koteshwar Road - Mahatma Mandir,1,F5C400,000000,GMRC
+GMRC_L4,GMRC,Line 4,Violet Line: GNLU - GIFT City,1,7B3FA0,FFFFFF,GMRC

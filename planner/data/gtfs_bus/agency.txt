@@ -1,0 +1,4 @@
+agency_id,agency_name,agency_url,agency_timezone,agency_phone,agency_email
+AMTS,Ahmedabad Municipal Transport Services,https://amts.co.in,Asia/Kolkata,+912539188186,amtsamc@gmail.com
+AJL,Ahmedabad Janmarg Limited,https://www.ahmedabadbrts.com,Asia/Kolkata,,
+GTSL,Gandhinagar Transport Services Limited,https://gscdlwebportal.gandhinagarsmartcity.in/,Asia/Kolkata,+91 7923220440,gmc8gandhinagar@gmail.com

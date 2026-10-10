@@ -1,0 +1,54 @@
+area_id,area_name
+GMRC_AREA_1,Vastral Gam
+GMRC_AREA_2,Nirant Cross Road
+GMRC_AREA_3,Vastral
+GMRC_AREA_4,Rabari Colony
+GMRC_AREA_5,Amraivadi
+GMRC_AREA_6,Apparel Park
+GMRC_AREA_7,Kankaria East
+GMRC_AREA_8,Kalupur Metro Station
+GMRC_AREA_9,Gheekanta
+GMRC_AREA_10,Shahpur
+GMRC_AREA_11,Old High Court
+GMRC_AREA_12,SP Stadium
+GMRC_AREA_13,Commerce Six Road
+GMRC_AREA_14,Gujarat University
+GMRC_AREA_15,Gurukul Road
+GMRC_AREA_16,Doordarshan Kendra
+GMRC_AREA_17,Thaltej
+GMRC_AREA_18,Thaltej Gam
+GMRC_AREA_19,APMC
+GMRC_AREA_20,Jivraj Park
+GMRC_AREA_21,Rajivnagar
+GMRC_AREA_22,Shreyas
+GMRC_AREA_23,Paldi
+GMRC_AREA_24,Gandhigram
+GMRC_AREA_25,Usmanpura
+GMRC_AREA_26,Vijaynagar
+GMRC_AREA_27,Vadaj
+GMRC_AREA_28,Ranip
+GMRC_AREA_30,AEC
+GMRC_AREA_31,Sabarmati
+GMRC_AREA_32,Motera Stadium
+GMRC_AREA_33,Koteshwar Road
+GMRC_AREA_34,Vishwakarma College
+GMRC_AREA_35,Tapovan Circle
+GMRC_AREA_36,Narmada Canal
+GMRC_AREA_37,Koba Circle
+GMRC_AREA_38,Juna Koba
+GMRC_AREA_39,Koba Gam
+GMRC_AREA_40,GNLU
+GMRC_AREA_41,Raysan
+GMRC_AREA_42,Randesan
+GMRC_AREA_43,Dholakuva Circle
+GMRC_AREA_44,Infocity
+GMRC_AREA_45,Sector-1
+GMRC_AREA_46,Sector 10A
+GMRC_AREA_47,Sachivalaya
+GMRC_AREA_48,Akshardham
+GMRC_AREA_49,Juna Sachivalaya
+GMRC_AREA_50,Sector-16
+GMRC_AREA_51,Sector-24
+GMRC_AREA_52,Mahatama Mandir
+GMRC_AREA_53,PDEU
+GMRC_AREA_54,Gift City

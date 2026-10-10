@@ -1,0 +1,3 @@
+rider_category_id,rider_category_name,is_default_fare_category
+BRTS_ADULT,Adult,1
+BRTS_CHILD,Child,0

@@ -1,0 +1,2 @@
+feed_publisher_name,feed_publisher_url,feed_lang,feed_start_date,feed_end_date,feed_version
+"metro-hacks PS-08 (unofficial, built from GMRC published data)",https://www.gujaratmetrorail.com,en,20260930,20270329,2026-10-10

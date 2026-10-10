@@ -1,0 +1,5 @@
+service_id,monday,tuesday,wednesday,thursday,friday,saturday,sunday,start_date,end_date
+GMRC_WKDY,1,1,1,1,1,0,0,20260930,20270329
+GMRC_SAT,0,0,0,0,0,1,0,20260930,20270329
+GMRC_SUN,0,0,0,0,0,0,1,20260930,20270329
+GMRC_DAILY,1,1,1,1,1,1,1,20260930,20270329

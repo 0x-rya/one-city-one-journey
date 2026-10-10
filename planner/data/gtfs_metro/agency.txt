@@ -1,0 +1,2 @@
+agency_id,agency_name,agency_url,agency_timezone,agency_lang,agency_phone,agency_fare_url
+GMRC,Gujarat Metro Rail Corporation (GMRC) Ltd,https://www.gujaratmetrorail.com,Asia/Kolkata,en,,https://www.gujaratmetrorail.com/ahmedabad/route-and-fares/

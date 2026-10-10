@@ -1,0 +1,192 @@
+area_id,area_name
+BRTS_AREA_1,R.T.O Circle
+BRTS_AREA_2,Ranip Cross Road
+BRTS_AREA_3,Bhavsar Hostel
+BRTS_AREA_4,Akhbarnagar
+BRTS_AREA_5,Pragatinagar
+BRTS_AREA_6,Shastrinagar
+BRTS_AREA_7,Jaimangal
+BRTS_AREA_8,Sola Cross Road
+BRTS_AREA_9,Shree Valinath Chowk
+BRTS_AREA_10,Memnagar
+BRTS_AREA_11,University
+BRTS_AREA_12,Andhjan Mandal
+BRTS_AREA_13,Himmatlal Park
+BRTS_AREA_14,Shivranjani
+BRTS_AREA_15,Jhansi Ki Rani
+BRTS_AREA_16,Nehrunagar
+BRTS_AREA_17,Manekbaug
+BRTS_AREA_18,Dharnidhar Derasar
+BRTS_AREA_19,Anjali
+BRTS_AREA_20,Chandranagar
+BRTS_AREA_21,Khodiyarnagar
+BRTS_AREA_22,Danilimda Char Rasta
+BRTS_AREA_23,Vaikunth Dham Mandir
+BRTS_AREA_24,Swaminarayan College
+BRTS_AREA_25,Kankariya Telephone Exchange
+BRTS_AREA_26,Kankariya Lake Shukla Dada Chowk
+BRTS_AREA_27,Rambaug
+BRTS_AREA_28,Maninagar Char Rasta
+BRTS_AREA_29,Maninagar
+BRTS_AREA_30,Swaminarayan Mandir
+BRTS_AREA_31,Jawahar Chowk
+BRTS_AREA_32,Bhairavnath Road
+BRTS_AREA_33,Mira Cinema Char Rasta
+BRTS_AREA_34,Danilimda Road
+BRTS_AREA_35,Chhipa Society
+BRTS_AREA_36,Chandola Lake
+BRTS_AREA_37,BRTS Workshop
+BRTS_AREA_38,Kashiram Textiles
+BRTS_AREA_39,Narol
+BRTS_AREA_40,Mukesh Industries
+BRTS_AREA_41,Isanpur
+BRTS_AREA_42,Ghodasar
+BRTS_AREA_43,Jashodanagar Char Rasta
+BRTS_AREA_44,Express Highway Junction
+BRTS_AREA_45,CTM Cross Road
+BRTS_AREA_46,Purvdeep Society
+BRTS_AREA_47,Jogeshwari Society
+BRTS_AREA_48,Rabari Colony
+BRTS_AREA_49,Ram Rajya Nagar
+BRTS_AREA_50,Rameshwar Park
+BRTS_AREA_51,Geeta Gauri Cinema
+BRTS_AREA_52,Soni ni Chali
+BRTS_AREA_53,Viratnagar
+BRTS_AREA_54,Bapu Nagar Approach
+BRTS_AREA_55,Lilanagar
+BRTS_AREA_56,Thakkar Nagar Approach
+BRTS_AREA_57,Hirawadi
+BRTS_AREA_58,Vijay Park
+BRTS_AREA_59,Krishna nagar
+BRTS_AREA_60,Dhanush Dhari Mandir
+BRTS_AREA_61,Naroda S. T. Workshop
+BRTS_AREA_62,N R Patel Park
+BRTS_AREA_63,Ramapir No Tekaro
+BRTS_AREA_64,Juna Vadaj
+BRTS_AREA_65,Gurudwara
+BRTS_AREA_66,Hanumanpura
+BRTS_AREA_67,Sarkari Litho Press
+BRTS_AREA_68,Jodhpur Char Rasta
+BRTS_AREA_69,Star Bazaar
+BRTS_AREA_70,ISRO
+BRTS_AREA_71,Ramdevnagar
+BRTS_AREA_72,ISKCON Cross Road
+BRTS_AREA_73,Grid Station
+BRTS_AREA_74,Odhav Fire Station
+BRTS_AREA_75,Vallabh Nagar
+BRTS_AREA_76,Chhotalal ni Chali
+BRTS_AREA_77,Morlidhar Society
+BRTS_AREA_78,Odhav Talav
+BRTS_AREA_79,SP Ring Road Approach
+BRTS_AREA_80,Ajit Mill Char Rasta
+BRTS_AREA_81,Parasnagar
+BRTS_AREA_82,Parshwanath Jain Mandir
+BRTS_AREA_83,Bhuyangdev
+BRTS_AREA_84,Sattadhar Char Rasta
+BRTS_AREA_85,Sola Bridge
+BRTS_AREA_86,Science City Approach
+BRTS_AREA_87,Sabarmati Power House
+BRTS_AREA_88,Rathi Apartment
+BRTS_AREA_89,Sabarmati Municipal Swimming pool
+BRTS_AREA_90,Sabarmati Police Station
+BRTS_AREA_91,Motera Cross Road
+BRTS_AREA_92,Visat -Gandhinagar Junction
+BRTS_AREA_93,R.T.O Extension
+BRTS_AREA_94,Lokamanya Tilak Bag
+BRTS_AREA_95,Raikhad Char Rasta
+BRTS_AREA_96,Municipal Corporation Office
+BRTS_AREA_97,Astodiya Chakala
+BRTS_AREA_98,Astodiya Darwaja
+BRTS_AREA_99,Raipur Darwaja
+BRTS_AREA_100,Karnamukteshwar Mahadev
+BRTS_AREA_101,Sarangpur Darwaja
+BRTS_AREA_102,Kalupur
+BRTS_AREA_103,ISKCON Mandir
+BRTS_AREA_104,Antariksh Colony
+BRTS_AREA_105,Jayantilal Park
+BRTS_AREA_106,Swagat Bungalow
+BRTS_AREA_107,Ambli Gam
+BRTS_AREA_108,Bopal Approach
+BRTS_AREA_109,ONGC Avani Bhavan
+BRTS_AREA_110,Jantanagar
+BRTS_AREA_111,Shiv Shaktinagar
+BRTS_AREA_112,Chandkheda Gam
+BRTS_AREA_113,Soma Textiles
+BRTS_AREA_114,L Colony
+BRTS_AREA_115,Panjrapole Char Rasta
+BRTS_AREA_116,Gulbai Tekra Approach
+BRTS_AREA_117,LD Engg. College
+BRTS_AREA_118,Municipal North Zone Office
+BRTS_AREA_119,Memco Cross Road
+BRTS_AREA_120,Naroda Fruit Market
+BRTS_AREA_121,Ashok Mill
+BRTS_AREA_122,Jeening Press
+BRTS_AREA_123,Arvind Mill
+BRTS_AREA_124,G.C.S. Hospital
+BRTS_AREA_125,Sarthi Bungalows
+BRTS_AREA_126,DCIS Circle
+BRTS_AREA_127,Geeta Mandir
+BRTS_AREA_128,Bhulabhai Park
+BRTS_AREA_129,Mangal Park
+BRTS_AREA_130,Saijpur Towers
+BRTS_AREA_131,Vishvakarma Engineering College
+BRTS_AREA_132,Bhavya Park
+BRTS_AREA_133,Ghuma Gam
+BRTS_AREA_134,Bethak
+BRTS_AREA_135,Naroda Gam
+BRTS_AREA_136,Vasna
+BRTS_AREA_137,Sola Bhagwat
+BRTS_AREA_138,Sarkari Litho Press Cabin
+BRTS_AREA_139,Prem Darwaja
+BRTS_AREA_140,Kalupur Ghee Bazar
+BRTS_AREA_141,M J Library
+BRTS_AREA_142,Law Garden
+BRTS_AREA_143,Samarpan Bungalows
+BRTS_AREA_144,Narayana Hospital
+BRTS_AREA_145,Vasundhara Society
+BRTS_AREA_146,Sterling City
+BRTS_AREA_147,Bopal Gam
+BRTS_AREA_148,Little Wings
+BRTS_AREA_149,Delhi Darwaja
+BRTS_AREA_150,Ashok Vatika
+BRTS_AREA_151,Gujarat High Court
+BRTS_AREA_152,Gota Cross Road
+BRTS_AREA_153,Shukan Mall
+BRTS_AREA_154,Galaxy Signature
+BRTS_AREA_155,Science City
+BRTS_AREA_156,Bhadaj Circle
+BRTS_AREA_157,Gota Vasant Nagar Township
+BRTS_AREA_158,Karnavati Club
+BRTS_AREA_159,Prahalad Nagar Cross Road
+BRTS_AREA_160,Makarba Road
+BRTS_AREA_161,Sanand Circle
+BRTS_AREA_163,SOBO Center
+BRTS_AREA_164,Sukhasan Char Rasta
+BRTS_AREA_165,South Bopal BRTS Terminus
+BRTS_AREA_166,Muktidham Naroda
+BRTS_AREA_167,Haridarshan Char Rasta
+BRTS_AREA_168,Swaminarayan Park
+BRTS_AREA_169,Sthapatya Eligance
+BRTS_AREA_170,Hanspura Ring Road
+BRTS_AREA_171,Chittavan
+BRTS_AREA_172,Basant Bahar
+BRTS_AREA_173,Pravinnagar
+BRTS_AREA_174,Maktampura Ward Office
+BRTS_AREA_175,Juhapura Road
+BRTS_AREA_176,Khurshid Park
+BRTS_AREA_177,Ambar Tower
+BRTS_AREA_178,Sarkhej Circle
+BRTS_AREA_179,Hanuman Camp
+BRTS_AREA_180,Naroda Bazaar
+BRTS_AREA_181,G.E.B (Naroda)
+BRTS_AREA_182,Hanspura Gam
+BRTS_AREA_183,Kalpataru Park
+BRTS_AREA_184,Adalaj Circle
+BRTS_AREA_185,Adalaj S.T. Stand
+BRTS_AREA_186,Trimandir
+BRTS_AREA_187,Gayatri Mandir
+BRTS_AREA_188,Amba Township
+BRTS_AREA_189,Swagat City
+BRTS_AREA_190,Ahmedabad Domestic Airport
+BRTS_AREA_191,Prabha Hanuman
+BRTS_AREA_192,RK Royal
